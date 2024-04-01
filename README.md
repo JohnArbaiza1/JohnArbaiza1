@@ -27,8 +27,10 @@ el desarrollo de videojuegos, desarrollo web entre otras cosas más que son de m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@John_A0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@john_a0704" height="30" width="40" /></a>
-<a href="https://instagram.com/john.arbaiza02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="john.arbaiza02" height="30" width="40" /></a>
+<a href="https://twitter.com/@John_A0704" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  width="40" /></a>
+<a href="https://instagram.com/john.arbaiza02" target="blank"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40"> </a>
+<a href="https://www.threads.net/@john.arbaiza02"><img src="https://freelogopng.com/images/all_img/1688663226threads-logo-png.png" width="35"></a>
+<a href="https://github.com/John-Arbaiza"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"></a>
 </p>
 
 
