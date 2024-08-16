@@ -5,9 +5,11 @@
 
 </div>
 
-## Sobre mi <img src="https://www.shutterstock.com/image-vector/fly-wings-batman-famous-logo-600nw-2054680235.jpg"  width="45px" >
-Soy estudiante de Ingeniería de sistemas informáticos en la FMO UES. Mi fascinación por la programación me ha llevado a explorar áreas como la ciberseguridad,
-el desarrollo de videojuegos, desarrollo web entre otras cosas más que son de mi interés. Siempre estoy buscando aprender más para poder contribuir al mundo del desarrollo de software.
+## About me <img src="https://www.shutterstock.com/image-vector/fly-wings-batman-famous-logo-600nw-2054680235.jpg"  width="45px" >
+<p align="justify">
+I am a student of Computer Systems Engineering at FMO UES. My fascination for programming has led me to explore areas such as cybersecurity, video game development, web development among other things that are of interest to me. I am always looking to learn more so I can contribute to the world of software development. 
+</p>
+            
 
 ## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="30px">
 <h3 align="left">Programming Languages:</h3>
@@ -22,8 +24,25 @@ el desarrollo de videojuegos, desarrollo web entre otras cosas más que son de m
 <h3 align="left">Mobile App Development:</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"  width="60px">
 
-<h3 align="left">Other:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h2 align="center">Other:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,django,figma,firebase,linux,nodejs,postman,unity" />
+  </a>
+</p>
+
+<!-------------------------------------------------------------->
+
+<h1 align="center">📈 My GitHub Stats and Activity </h1><p align="center">
+
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnArbaiza1&theme=github_dark" />
+
+<div align ="center">
+    
+[![JohnArbaiza1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnArbaiza1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnArbaiza1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +52,7 @@ el desarrollo de videojuegos, desarrollo web entre otras cosas más que son de m
 <a href="https://www.threads.net/@john.arbaiza02"><img src="https://freelogopng.com/images/all_img/1688663226threads-logo-png.png" width="35"></a>
 <a href="https://github.com/John-Arbaiza"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"></a>
 </p>
+
 
 
 
