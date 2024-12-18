@@ -81,16 +81,14 @@ I am a student of Computer Systems Engineering at FMO UES. My fascination for pr
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@John_A0704" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  width="40" /></a>
-<a href="https://instagram.com/john.arbaiza02" target="blank"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40"> </a>
-<a href="https://www.threads.net/@john.arbaiza02"><img src="https://freelogopng.com/images/all_img/1688663226threads-logo-png.png" width="35"></a>
-<a href="https://github.com/John-Arbaiza"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"></a>
-</p>
 
-
-
-
+<div align="center">
+    <a href="johnarbaiza07.03@gmail.com"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+    <a href="https://github.com/John-Arbaiza"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.threads.net/@john.arbaiza02" target="blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" /></a>
+    <a href="https://github.com/John-Arbaiza"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+    
+</div>
 
 
 <!--
