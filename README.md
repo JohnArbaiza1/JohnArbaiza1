@@ -83,8 +83,7 @@ I am a student of Computer Systems Engineering at FMO UES. My fascination for pr
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-    <a href="johnarbaiza07.03@gmail.com"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-    <a href="https://github.com/John-Arbaiza"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/@John_A0704"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
     <a href="https://www.threads.net/@john.arbaiza02" target="blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" /></a>
     <a href="https://github.com/John-Arbaiza"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
     
