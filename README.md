@@ -5,20 +5,24 @@
 
 </div>
 
-<div style="display:flex; justify-content:center; align-items: center; flex-direction: column;"> 
-  <h2> About me: </h2> 
+<div align="center"> 
+    
+  ## About me: 
+    
   <img src="https://vignette.wikia.nocookie.net/fcs-vs-battle/images/4/43/TheKnight_(Hollow_Knight)_Vector.png"  width="70px;" height="70px;">
+  
 </div>
 <p align="justify">
 I am a student of Computer Systems Engineering at FMO UES. My fascination for programming has led me to explore areas such as cybersecurity, video game development, web development among other things that are of interest to me. I am always looking to learn more so I can contribute to the world of software development. 
 </p>
             
-<div style="display:flex; justify-content:center; align-items: center;"> 
-  <h2 style="margin-top: 16px;"> Skills </h2> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="width:40px; margin-left: 10px;">
+<div align="center"> 
+    
+## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="width:40px; margin-left: 10px;">
+
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; max-width: 100%; justify-items: center; padding: 20px 19px;"> 
+<div> 
   <div align="center">
     <h3>Programming Languages:</h3>
     <img src="https://skillicons.dev/icons?i=cs,java,js,py" />
