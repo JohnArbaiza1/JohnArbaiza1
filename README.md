@@ -5,6 +5,10 @@
 
 </div>
 
+<div align="center">
+  <img width="850px" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+</div>
+
 <div align="center"> 
     
   ## About me: 
@@ -89,6 +93,18 @@ I am a student of Computer Systems Engineering at FMO UES. My fascination for pr
     
 </div>
 
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" /> </b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/JohnArbaiza1/count.svg" /></p> 
+  <br>
+</div>
+
+<div align="center" >
+  
+  ## Gracias por visitar mi perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" />
+
+</div>
 
 <!--
 **JohnArbaiza1/JohnArbaiza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
