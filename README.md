@@ -93,12 +93,7 @@ I am a student of Computer Systems Engineering at FMO UES. My fascination for pr
     
 </div>
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" /> </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/JohnArbaiza1/count.svg" /></p> 
-  <br>
-</div>
+
 
 <div align="center" >
   
@@ -120,3 +115,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
