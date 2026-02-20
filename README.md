@@ -1,5 +1,5 @@
 <div align ="center">
-    <h1 align ="center">Hello world I'm John Arbaiza <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" ></h1>
+    <h1 align ="center"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" >  Hi! I'm John. Welcome to my code space ⚡</h1>
 
  <img width="850px" height="1440" alt="Banner GithHub" src="https://github.com/user-attachments/assets/079620a0-da15-46a7-aed9-3f02e5ecde30" style="display:inline-block; margin:0;" />
 
@@ -86,7 +86,9 @@ I am a student of Computer Systems Engineering at FMO UES. My fascination for pr
     <a href="https://twitter.com/@John_A0704"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
     <a href="https://www.threads.net/@john.arbaiza02" target="blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" /></a>
     <a href="https://github.com/John-Arbaiza"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="www.linkedin.com/in/johnarbaiza07"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/johnarbaiza07">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
 
 
@@ -117,5 +119,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
